@@ -1,4 +1,4 @@
-# PhotoStock:
+# Calculator:
 
 [GH-PAGES](https://bergamolt.github.io/calculator/)
 
